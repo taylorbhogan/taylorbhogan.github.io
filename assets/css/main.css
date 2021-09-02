@@ -72,6 +72,20 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+.photo{
+	width: auto;
+	height: 300px;
+	padding-right: 60px;
+
+}
+.intro{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
@@ -2785,18 +2799,6 @@ input, select, textarea {
 
 		}
 
-.photo{
-	width: auto;
-	height: 300px;
-	padding-right: 60px;
-
-}
-.intro{
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-}
-
 /* Wrapper */
 
 	.wrapper {
@@ -4010,3 +4012,12 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	.projectButtonHolder{
+		display: flex;
+		justify-content: space-around;
+	}
+
+#liveLink{
+	width: 40%;
+}
