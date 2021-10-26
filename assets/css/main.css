@@ -3874,11 +3874,11 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/yos-valley.jpeg");
+		background-image: url("images/yos-valley2.jpeg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		object-fit: cover;
-		background-size: 82% 100%;
+		background-size: 100% 100%;
 
 	}
 
