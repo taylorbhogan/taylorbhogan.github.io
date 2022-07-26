@@ -1,3 +1,11 @@
+:root{
+  /* --color1: rgb(137	168	201); */
+  --color1: #412234;
+  --color2: #235452;
+  --color3: #43AA8B;
+  --color4: #6D466B;
+}
+
 #chevron-actions{
   margin: 0;
 }
